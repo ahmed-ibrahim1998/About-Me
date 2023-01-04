@@ -12,7 +12,7 @@ CSS , Html , JavaScript , JSON , PHP , SQL , MySQL , Laravel Framework , Design 
 
 # You can contact with me there:
 
-- LinkedIn:This site was built using [GitHub Pages]([https://pages.github.com/](https://www.linkedin.com/in/ahmed-ibrahim-86a36b176/)).
+- LinkedIn:This site was built using [GitHub Pages](https://www.linkedin.com/in/ahmed-ibrahim-86a36b176/).
 
 
 
