@@ -16,7 +16,7 @@ CSS , Html , JavaScript , JSON , PHP , SQL , MySQL , Laravel Framework , Design 
 
 - Gmail: ahmedibrahim2621998@gmail.com.
 
-- Whatsapp: +201112716862.
+- Whatsapp: Wa.me/+201112716862.
 
 
 
